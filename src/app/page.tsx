@@ -1,5 +1,5 @@
 import Image from "next/image";
 
 export default function Home() {
-  return <div>Home Route</div>;
+  return <div className="text-3xl m-5">Home Route</div>;
 }
